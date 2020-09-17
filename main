@@ -1,4 +1,4 @@
 void mian()
 {
-
+   printf("Hello World");
 }
